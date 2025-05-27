@@ -1,0 +1,9 @@
+# Prompt Header
+Intent: <choose from system-shaping | truth-seeking | dialogic | open-ended | witnessing>
+Tone: <desired tone>
+
+# Prompt Body
+[Provide clear instructions, describe input, list any constraints.]
+
+# Final Instruction
+<Add a custom final instruction before sending.>
