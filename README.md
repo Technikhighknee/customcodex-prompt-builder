@@ -10,5 +10,6 @@ Each file focuses on a different aspect of prompt design:
 - **SENSES.md** – catalog of different prompt intentions and how they shape structure and tone.
 - **EXAMPLES.md** – sample prompts annotated with their sense and composition.
 - **SCAFFOLDS/** – optional templates or flows for building prompts step by step.
+- **RHYTHM.md** – notes on giving a prompt time to mature before using it.
 
-This project does not produce ready‑made prompts. Instead, it helps you clarify the purpose and sense of your own prompts so that your interactions with Codex can be more deliberate.
+This project does not produce ready‑made prompts. Instead, it helps you clarify the purpose and sense of your own prompts and notice when they feel ripe enough to share.

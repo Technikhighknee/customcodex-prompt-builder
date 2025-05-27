@@ -13,3 +13,6 @@ Prompts that invite conversation or exchange. They typically use open questions 
 
 ## Open-Ended
 Prompts for exploration or brainstorming. These emphasize possibility, may minimize constraints, and often ask Codex to imagine or reflect.
+
+## Witnessing
+Prompts that hold space for an idea or feeling without demanding an immediate answer. They recognize timing and relationship as part of the request.

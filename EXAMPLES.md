@@ -25,3 +25,9 @@ I'm exploring approaches to remote collaboration. What questions should I be ask
 [Intent: open-ended]
 Imagine future uses for urban rooftops that support community health. List possibilities without evaluating feasibility.
 ```
+
+## Witnessing Example
+```
+[Intent: witnessing]
+I am wrestling with how to describe my project. Hold this intention with me and offer no direct response yet.
+```

@@ -1,5 +1,5 @@
 # Prompt Header
-Intent: <choose from system-shaping | truth-seeking | dialogic | open-ended>
+Intent: <choose from system-shaping | truth-seeking | dialogic | open-ended | witnessing>
 Tone: <desired tone>
 
 # Prompt Body
